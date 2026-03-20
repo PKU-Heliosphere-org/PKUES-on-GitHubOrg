@@ -225,7 +225,7 @@ for jpl=1:npl1
       
        %Added by Xingyu Zhu 2020-05-14
       run ../modules/pkues_plot_comp_velocity
-      run ../modules/pkues_plot_growing_rate
+      run ../modules/pkues_plot_growth_rate
       run ../modules/pkues_add_polarization_1
       run ../modules/pkues_add_polarization_2
       
